@@ -3807,7 +3807,7 @@ package type OT</description>
 </segment>
 <segment>
 <wire x1="685.8" y1="434.34" x2="680.72" y2="434.34" width="0.1524" layer="91"/>
-<label x="678.18" y="434.34" size="1.778" layer="95"/>
+<label x="680.72" y="434.34" size="1.778" layer="95"/>
 <pinref part="J6" gate="G$1" pin="4"/>
 </segment>
 <segment>
@@ -3995,7 +3995,7 @@ package type OT</description>
 </segment>
 <segment>
 <wire x1="685.8" y1="436.88" x2="680.72" y2="436.88" width="0.1524" layer="91"/>
-<label x="678.18" y="436.88" size="1.778" layer="95"/>
+<label x="680.72" y="436.88" size="1.778" layer="95"/>
 <pinref part="J6" gate="G$1" pin="3"/>
 </segment>
 <segment>
@@ -4284,7 +4284,7 @@ package type OT</description>
 </segment>
 <segment>
 <wire x1="685.8" y1="441.96" x2="680.72" y2="441.96" width="0.1524" layer="91"/>
-<label x="678.18" y="441.96" size="1.778" layer="95"/>
+<label x="680.72" y="441.96" size="1.778" layer="95"/>
 <pinref part="J6" gate="G$1" pin="1"/>
 </segment>
 <segment>
@@ -4301,7 +4301,7 @@ package type OT</description>
 </segment>
 <segment>
 <wire x1="685.8" y1="439.42" x2="680.72" y2="439.42" width="0.1524" layer="91"/>
-<label x="678.18" y="439.42" size="1.778" layer="95"/>
+<label x="680.72" y="439.42" size="1.778" layer="95"/>
 <pinref part="J6" gate="G$1" pin="2"/>
 </segment>
 <segment>
