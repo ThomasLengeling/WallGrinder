@@ -2,24 +2,24 @@ EAGLE AutoRouter Statistics:
 
 Job           : C:/Users/thomas/Documents/MIT/WallGrinder/Circuit/WallGrinder.brd
 
-Start at      : 13:21:20 (9/5/2019)
-End at        : 13:21:47 (9/5/2019)
-Elapsed time  : 00:00:24
+Start at      : 09:58:38 (12/3/2019)
+End at        : 09:58:43 (12/3/2019)
+Elapsed time  : 00:00:03
 
-Signals       :    56   RoutingGrid: 6 mil  Layers: 2
-Connections   :   113   predefined:  109 ( 85 Vias )
+Signals       :    57   RoutingGrid: 19.685 mil  Layers: 2
+Connections   :   112   predefined:  33 ( 0 Vias )
 
-Router memory :   1707808
+Router memory :   167232
 
-Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4 Optimize5 Optimize6 Optimize7 Optimize8 Optimize9Optimize10Optimize11Optimize12
+Passname          :    Busses     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:21  00:00:00  00:00:00  00:00:00  00:00:00  00:00:01  00:00:00  00:00:00  00:00:01  00:00:00  00:00:00  00:00:01  00:00:00  00:00:00
-Number of Ripups  :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
-max. Level        :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
-max. Total        :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
+Time per pass     :  00:00:00  00:00:00  00:00:01  00:00:01  00:00:00  00:00:01
+Number of Ripups  :         0         0         0         0         0         0
+max. Level        :         0         1         0         0         0         0
+max. Total        :         0         0         0         0         0         0
 
-Routed            :         1         4         4         4         4         4         4         4         4         4         4         4         4         4
-Vias              :         0         3         5         5         5         5         5         5         5         5         5         5         5         5
-Resolution        :    97.3 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
+Routed            :         7        78        78        78        79        79
+Vias              :         0       146        95        85        81        80
+Resolution        :    35.7 %    99.1 %    99.1 %    99.1 %   100.0 %   100.0 %
 
-Final             : 100.0% finished
+Final             : 90.2% finished. Polygons may have fallen apart.
